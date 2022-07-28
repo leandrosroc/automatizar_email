@@ -1,1 +1,1 @@
-# automatizar_email
+Olá, o propósito desse projeto é fazer a automação dos envios de e-mails utilizando a linguagem Python.
